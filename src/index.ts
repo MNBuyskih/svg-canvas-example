@@ -7,7 +7,11 @@ export default async function (svgType: "sameDomain" | "differentDomain") {
   loadSvg(svg);
 
   console.time(svgType);
-  await renderSvg(svg);
+  try {
+    await renderSvg(svg);
+  } catch (e) {
+    alert(e.toString());
+  }
   console.timeEnd(svgType);
 }
 
