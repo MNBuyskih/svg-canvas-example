@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src/",
+    "target": "es5",
+    "sourceMap": true,
+    "noUnusedLocals": true,
+    "strict": true,
+    "lib": ["es6", "dom"],
+    "types": ["lodash"]
+  },
+  "exclude": ["node_modules"],
+  "compileOnSave": false
+}

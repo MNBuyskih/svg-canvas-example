@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.116",
+    "immutable": "^3.8.2",
+    "lodash": "^4.17.11",
+    "rollup": "^0.66.0",
+    "rollup-plugin-typescript2": "^0.17.0",
+    "rollup-watch": "^4.3.1",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
