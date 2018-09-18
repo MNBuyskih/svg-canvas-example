@@ -1,16 +1,34 @@
 export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-id="389343532"
      class="page start-selection page__cover" width="663.4788599999999px" height="674px"
      viewBox="0 9.094947017729282e-13 10000 10158.575361391318">
+    <defs>
+        <style type="text/css">
+@font-face {
+  font-family: "Mathlete";
+  font-weight: 400;
+  font-style: normal;
+  src: url(assets/mathlete-skinny_latin-basic.woff) format("woff");
+}
+        
+@font-face {
+  font-family: "Ahkio Thin";
+  font-weight: 400;
+  font-style: normal;
+  src: url(assets/ahkio_thin_latin-basic.woff) format("woff");
+}
+
+        </style>
+    </defs>
     <g class="no-clipping">
         <rect x="0" y="9.094947017729282e-13" width="10000" height="10158.575361391318" fill="white"
               pointer-events="none"></rect>
         <g>
-            <g class="page-item" opacity="1" id="page-item-c28524f0-bb7a-11e8-8f27-fd18d3db3541"
+            <g class="page-item" opacity="1" id="page-item-54bbcfd2-bb81-11e8-8a17-d78a2935afec"
                transform="translate(-356.25, -356.26231930434005) rotate(0)" width="10712.5" height="10871.1">
                 <g class="page-item--positioning-container" transform="translate(0, 0)">
-                    <g clip-path="url(#clip-path__1563e580-bb7b-11e8-8f27-fd18d3db3541)">
+                    <g clip-path="url(#clip-path__5517ab70-bb81-11e8-8a17-d78a2935afec)">
                         <defs>
-                            <clipPath id="clip-path__1563e580-bb7b-11e8-8f27-fd18d3db3541">
+                            <clipPath id="clip-path__5517ab70-bb81-11e8-8a17-d78a2935afec">
                                 <path d=" M 0,0 L 10712.5,0 L 10712.5,10871.1 L 0,10871.1 L 0,0 Z"></path>
                             </clipPath>
                         </defs>
@@ -21,7 +39,7 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                                 <image class="page_background_item start-selection"
                                        transform="matrix(1 0 0 1 -2408.8 0)" preserveAspectRatio="none"
                                        width="15530.099999999999" height="10871.1" opacity="1"
-                                       xlink:href="assets/1893306_609590_l.jpg?1534698116=undefined"></image>
+                                       xlink:href="assets/1893306_609590_l.jpg"></image>
                             </g>
                         </g>
                     </g>
@@ -39,11 +57,11 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                             <text>
                                 <tspan>
                                     <tspan x="919.5402298850574" y="2481.299033023171" textLength="3546.7980295566504"
-                                           style="font-family: Arial; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(255, 255, 255);">
+                                           style="font-family: Mathlete; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(255, 255, 255);">
                                         Pretty
                                     </tspan>
                                     <tspan x="5137.748586024448" y="2481.299033023171" textLength="1824.4845831052726"
-                                           style="font-family: Arial; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(255, 255, 255);">
+                                           style="font-family: Mathlete; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(255, 255, 255);">
                                         cat
                                     </tspan>
                                 </tspan>
@@ -64,11 +82,11 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                             <text>
                                 <tspan>
                                     <tspan x="364.89691662105463" y="2393.723773034118" textLength="4955.756248859698"
-                                           style="font-family: 'Times New Roman'; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(102, 191, 0);">
+                                           style="font-family: &quot;Ahkio Thin&quot;; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(102, 191, 0);">
                                         Pretty
                                     </tspan>
                                     <tspan x="5648.604269293924" y="2393.723773034118" textLength="2597.8379857690206"
-                                           style="font-family: 'Times New Roman'; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(102, 191, 0);">
+                                           style="font-family: &quot;Ahkio Thin&quot;; font-weight: 400; font-style: normal; font-size: 2222.22px; fill: rgb(102, 191, 0);">
                                         cat
                                     </tspan>
                                 </tspan>
@@ -90,16 +108,16 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                transform="translate(6349.535, 423.2726806956598) rotate(16)" width="3577.4699999999993"
                height="2504.23">
                 <g class="page-item--positioning-container" transform="translate(136.0000018030405, 136.0000018030405)">
-                    <g clip-path="url(#clip-path__15651e00-bb7b-11e8-8f27-fd18d3db3541)">
+                    <g clip-path="url(#clip-path__55195920-bb81-11e8-8a17-d78a2935afec)">
                         <defs>
-                            <clipPath id="clip-path__15651e00-bb7b-11e8-8f27-fd18d3db3541">
+                            <clipPath id="clip-path__55195920-bb81-11e8-8a17-d78a2935afec">
                                 <path d=" M 0,0 L 3305.4699963939183,0 L 3305.4699963939183,2232.229996393919 L 0,2232.229996393919 L 0,0 Z"></path>
                             </clipPath>
                         </defs>
                         <rect class="page-item--fill" width="3577.4699999999993" height="2504.23"
                               fill="rgba(0, 0, 0, 0)" opacity="0"></rect>
-                        <g filter="url(#image-effect-page_photo_item-1092028258--1161046036-15651e01-bb7b-11e8-8f27-fd18d3db3541)">
-                            <filter id="image-effect-page_photo_item-1092028258--1161046036-15651e01-bb7b-11e8-8f27-fd18d3db3541"
+                        <g filter="url(#image-effect-page_photo_item-1092028258--1161046036-5519a740-bb81-11e8-8a17-d78a2935afec)">
+                            <filter id="image-effect-page_photo_item-1092028258--1161046036-5519a740-bb81-11e8-8a17-d78a2935afec"
                                     width="130%" height="130%">
                                 <feColorMatrix in="SourceGraphic" type="matrix"
                                                values="0.34 0.67 0.12 0 0  0.25 0.67 0.13 0 0  0.17 0.33 0.11 0 0  0 0 0 1 0"></feColorMatrix>
@@ -109,7 +127,7 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                                        transform="matrix(-1 1.2246467991473532e-16 -1.2246467991473532e-16 -1 3305.47 2273.03)"
                                        preserveAspectRatio="none" width="3305.47" height="2313.8300000000004"
                                        opacity="1"
-                                       xlink:href="assets/918271218_486593_m.jpg?1537291538=undefined"></image>
+                                       xlink:href="assets/918271218_486593_m.jpg"></image>
                             </g>
                         </g>
                         <g></g>

@@ -1,7 +1,8 @@
 {
   "scripts": {
     "build": "rollup -c",
-    "start": "rollup -c -w"
+    "start": "rollup -c -w",
+    "publish": "gh-pages -d dist -r \"git@github.com:MNBuyskih/svg-canvas-example.git\""
   },
   "devDependencies": {
     "@types/lodash": "^4.14.116",

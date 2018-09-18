@@ -47,7 +47,7 @@ async function resolveCssImports(svg: string, client: Client, canCache: boolean)
   const matches = scan(svg, matcher);
   const requests = matches.map(url => {
     if (contentCache[url]) {
-      return contentCache[url];
+      // return contentCache[url];
     }
     return contentCache[url] = getContent(url, client, canCache)
         .then(r => r.text());
@@ -114,7 +114,7 @@ function getSvgAssetsAsDataUris(svg: string, client: Client, canCache: boolean):
 /* istanbul ignore next: ignore for now, hard to test in tsnode */
 function getDataUri(url: string, client: Client, canCache: boolean): Promise<string> {
   if (contentCache[url]) {
-    return contentCache[url];
+    // return contentCache[url];
   }
   return contentCache[url] = getContent(url, client, canCache).then(r => r.blob())
       .then(blob => readBlobAsDataUrl(blob, url));
