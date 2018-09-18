@@ -21,7 +21,7 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                                 <image class="page_background_item start-selection"
                                        transform="matrix(1 0 0 1 -2408.8 0)" preserveAspectRatio="none"
                                        width="15530.099999999999" height="10871.1" opacity="1"
-                                       xlink:href="../assets/1893306_609590_l.jpg?1534698116=undefined"></image>
+                                       xlink:href="assets/1893306_609590_l.jpg?1534698116=undefined"></image>
                             </g>
                         </g>
                     </g>
@@ -109,7 +109,7 @@ export const sameSvg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xm
                                        transform="matrix(-1 1.2246467991473532e-16 -1.2246467991473532e-16 -1 3305.47 2273.03)"
                                        preserveAspectRatio="none" width="3305.47" height="2313.8300000000004"
                                        opacity="1"
-                                       xlink:href="../assets/918271218_486593_m.jpg?1537291538=undefined"></image>
+                                       xlink:href="assets/918271218_486593_m.jpg?1537291538=undefined"></image>
                             </g>
                         </g>
                         <g></g>
